@@ -10,6 +10,9 @@
         <p>
         This blog site was created by <strong>John Anthony L. Balbin</strong>
         </p>
+		<p>
+        EDITED!
+        </p>
         <p>
         Credits to: <strong>Traversy Media</strong> for guiding my journey in developing this site and Jhobiemae Beltran for the about page description.
         </p>
