@@ -1,5 +1,4 @@
-## A BLOGGING SITE FOR COVID 19
+# A BLOGGING SITE FOR COVID 19
 
-# DEMO
-
-damp-everglades-79206.herokuapp.com
+## DEMO
+[a link](https://damp-everglades-79206.herokuapp.com)
