@@ -26,6 +26,6 @@
     "dependencies": {
         "@ckeditor/ckeditor5-build-classic": "^18.0.0",
         "bootstrap-sass": "^3.4.1",
-        "bootstrap-table": "^1.16.0"
+        "bootstrap-table": "^1.20.2"
     }
 }
